@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapsiriq-arry1", "Tapsiriq-arry1.csproj", "{ABD348C8-FD7A-42A3-A256-0DC62C0284FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD348C8-FD7A-42A3-A256-0DC62C0284FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD348C8-FD7A-42A3-A256-0DC62C0284FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD348C8-FD7A-42A3-A256-0DC62C0284FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD348C8-FD7A-42A3-A256-0DC62C0284FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320758D0-B3A5-454C-8E81-2ED36B0D0468}
+	EndGlobalSection
+EndGlobal

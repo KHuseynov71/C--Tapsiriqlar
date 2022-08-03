@@ -6,20 +6,16 @@ namespace Tapsiriq2
     {
         static void Main(string[] args)
         {
-            string month = "February";
-            if (month == "January" || month == "March" || month == "May" || month == "July" || month == "August" || month == "October" || month == "December")
+            int[] nums = { 1,0};
+            int count = 0, sum = 0;
+            for (int i = 1; i < nums.Length; i += 2)
             {
-                Console.WriteLine("31");
-            }
-            if (month == "April" || month == "June" || month == "September" || month == "November")
-            {
-                Console.WriteLine("30");
-            }
-            if (month == "February")
-            {
-                Console.WriteLine("28 or 29");
-            }
 
+                sum += nums[i];
+            }   count++;
+            sum = sum /count;
+            Console.WriteLine(sum);
+        }
         }
     }
-}
+

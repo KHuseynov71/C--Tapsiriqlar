@@ -19,7 +19,7 @@ namespace Tapsiriq
                     min++;
                 }
                 Console.WriteLine(i);
-                Console.ReadLine()
+                Console.ReadLine();
             }
         }
     }
